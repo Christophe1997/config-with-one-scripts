@@ -15,6 +15,7 @@ together(__bother Chinese and English is ok__).
     cd shell_scripts
     # chmod u+x $scripts_file
     # ./$scripts_files
+I recommend you put the files you may need in daily to $HOME/bin.
 
 ## Task list
 - Install opencv-3.3
