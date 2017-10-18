@@ -1,5 +1,11 @@
 #!/bin/sh
-# Update all available Python packages by pip.
+################################################################################
+# @author: Christophe
+# @email: sdl.office.1997@gmail.com
+# @env: Ubuntu16.04 x86_64 python3.6(Anaconda)
+# @desc: Update all available Python packages by pip.
+################################################################################
+
 
 tempfile=`mktemp`
 num=`pip list -o --format=freeze | tee $tempfile | wc -l`
