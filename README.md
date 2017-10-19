@@ -19,7 +19,8 @@ together(__bother Chinese and English is ok__).
     # chmod u+x $scripts_file
     # ./$scripts_files
 I recommend you always check the shell scripts line by line to avoid
-`sudo rm -rf ~/` for security. put the to `$HOME/bin` if you need in daily work.
+`sudo rm -rf ~/` for security. put the scripts you need in daily work under the
+path `$HOME/bin`.
 
 ## Task list ##
 
