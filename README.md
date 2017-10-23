@@ -25,9 +25,11 @@ path `$HOME/bin`.
 ## Task list ##
 
 - Install opencv-3.3
+
     Build and install opencv-3.0 without contrib.[Details][1] in the install_opencv.sh.
 
 - Update all Python packages
+
     Update all avaliable Python packages by pip.[Details][2] in the pip\_upgrade\_all.sh.
 
 [1]: https://github.com/Christophe1997/shell_scripts/blob/master/install_opencv.sh
