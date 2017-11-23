@@ -14,7 +14,7 @@ If not, you can seach on google or submit a new issue, we can handle it and impo
 
 ## Usage ##
 
-    git clone https://github.com/Christophe1997/shell_scripts.git
+    git clone https://github.com/Christophe1997/config-with-one-scripts.git
     cd shell_scripts
     # chmod u+x $scripts_file
     # ./$scripts_files
