@@ -5,20 +5,19 @@ sudo apt upgrade
 sudo apt-get remove unity-webapps-common
 
 # remove app uncommonly used
-sudo apt-get remove thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot
+sudo apt-get remove totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot onboard deja-dup
 sudo apt-get remove gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku  landscape-client-ui-install
-sudo apt-get remove onboard deja-dup
 
 # install Flatabulous theme
 # install unity-tweak-tool
 sudo apt-get install unity-tweak-tool
 sudo add-apt-repository -y ppa:noobslab/themes
 sudo apt-get update
-sudo apt-get install flatablous
+sudo apt-get install flatabulous-theme
 # for icon, I recommend the Flat-Remix
 sudo add-apt-repository -y ppa:noobslab/icons
 sudo apt-get update
-sudo apt-get install flat-remox-icons
+sudo apt-get install flat-remix-icons
 # now you can find the theme and icon in unity-tweak-tool
 
 # chang bash to zsh
